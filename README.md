@@ -14,13 +14,20 @@ collecting the papers, projects and applications of  KG for SE
 - [A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020)](https://arxiv.org/pdf/2002.00388.pdf)
 - [Knowledge Graphs (2020)](https://arxiv.org/pdf/2003.02320.pdf)[2020年初的一篇作者众多、内容很全的综述，适合系统性的建立知识图谱的知识体系。]
 
+## New Progress on KG
+
+###   知识图谱相关顶级会议回顾及研究进展报告
+
+#### CCKS2020
+-  [知识图谱研究进展之自然语言处理视角]()[Speaker：毛先领（北京理工大学）]
+-  [从语义网视角看知识图谱的近期研究进展](https://github.com/nju-websoft/KGProgress2020fromSemWeb)[Speaker：胡伟（南京大学）]
+-  [知识图谱数据管理研究新进展（线上报告）]()[Speaker：王鑫（天津大学）]
+
 ## Representation（知识表示）
 
 ## Reasoning(知识推理)
 
 ## KG Completion(图谱补全)
-
-
 
 ## Coreference Resolution(指代消解)
 
