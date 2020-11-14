@@ -20,7 +20,7 @@ collecting the papers, projects and applications of  KG for SE
 
 #### CCKS2020
 -  [知识图谱研究进展之自然语言处理视角]()[Speaker：毛先领（北京理工大学）]
--  [从语义网视角看知识图谱的近期研究进展](../../Knowledge Graph/CCKS2020/2020-11-14_whu_从语义网视角看知识图谱的近期研究进展.pdf)[Speaker：胡伟（南京大学）]
+-  [从语义网视角看知识图谱的近期研究进展](https://github.com/nju-websoft/KGProgress2020fromSemWeb)[Speaker：胡伟（南京大学）]
 -  [知识图谱数据管理研究新进展（线上报告）]()[Speaker：王鑫（天津大学）]
 
 ## Representation（知识表示）
